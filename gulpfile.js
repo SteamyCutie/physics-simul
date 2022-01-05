@@ -49,5 +49,4 @@ gulp.task('watch', function() {
 });
 
 gulp.task('default', ['js', 'html', 'connect', 'watch'], function() {
-
 });
